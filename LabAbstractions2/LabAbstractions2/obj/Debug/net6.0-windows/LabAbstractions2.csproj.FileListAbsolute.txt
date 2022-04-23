@@ -1,0 +1,17 @@
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.exe
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.deps.json
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.runtimeconfig.json
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.dll
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\ref\LabAbstractions2.dll
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.pdb
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.csproj.AssemblyReference.cache
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.Form1.resources
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.csproj.GenerateResource.cache
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.GeneratedMSBuildEditorConfig.editorconfig
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.AssemblyInfoInputs.cache
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.AssemblyInfo.cs
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.csproj.CoreCompileInputs.cache
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.dll
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\ref\LabAbstractions2.dll
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.pdb
+D:\bow\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.genruntimeconfig.cache
